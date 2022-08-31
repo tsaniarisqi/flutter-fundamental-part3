@@ -79,7 +79,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       body: Center(
         child: GestureDetector(
-          onTap: _incrementCounter,
+          onDoubleTap: _incrementCounter,
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
