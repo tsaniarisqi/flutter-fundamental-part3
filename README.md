@@ -15,3 +15,7 @@ A new Flutter project.
 ## Praktikum 2 - Menerapkan Input Widget dan Forms
 - Pada percobaan ini menerapkan input widget dan forms. Hasil pada percobaan ini yaitu terdapat dua forms, yaitu forms yang menggunakan validator dan forms biasa/tanpa validator. Form pertama menggunakan validator, ketika tidak ada yang diinputkan pada form maka akan muncul tulisan tidak boleh kosong. Sedangkan ketika ada yang diinputkan maka hasil inputan tersebut akan muncul diatas forms. Kemudian forms kedua merupakan forms biasa tanpa ada validator.
 ![Screenshoot flutter_fundamental_3](images/04.png)
+
+## Praktikum 3 - Menerapkan Custom Input dan FormField Widget
+- Hasil pada praktikum ini yaitu membuat forms yang hanya dapat di isi angka saja.
+![Screenshoot flutter_fundamental_3](images/05.png)
