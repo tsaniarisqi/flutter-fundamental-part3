@@ -8,3 +8,6 @@ A new Flutter project.
 
 - Pada percobaan ini diminta untuk mengubah kode bagian onTap menjadi onDoubleTap. Ketika menggunakan onDoubleTap  maka perlu melakukan double klik/tap pada gambar agar angka dibawah gambar bertambah.
 ![Screenshoot flutter_fundamental_3](images/02.png)
+
+- Pada percobaan ini diminta untuk mengubah kode bagian onTap menjadi onLongPress. Ketika menggunakan onLongPress  maka perlu menekan lebih lama pada gambar agar angka dibawah gambar bertambah.
+![Screenshoot flutter_fundamental_3](images/03.png)
